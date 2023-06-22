@@ -1,0 +1,1 @@
+print("I am indian citizen")
